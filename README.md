@@ -1,4 +1,4 @@
-<h1>Gunjit Gyawali</h1>
+<h1 align="centre">Gunjit Gyawali</h1>
 
 <p>
   High School Student | AI & ML Enthusiast | Programmer | Robotics Enthusist
