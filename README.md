@@ -6,6 +6,7 @@
 
 <p >
   <a href="https://gunjitgyawali.github.io/.com/" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-3242D9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
