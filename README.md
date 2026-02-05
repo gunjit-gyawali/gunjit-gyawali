@@ -1,37 +1,56 @@
-<h1 align="center">Hey there 👋 I'm <span style="color:#6C63FF">Gunjit Gyawali</span></h1>
+<h1 align="center">Hey 👋 I'm <span style="color:#6C63FF">Gunjit Gyawali</span></h1>
 
 <p align="center">
-  <strong>Web Developer | Game Developer | Self-Taught Robotics Engineer</strong>
+  <strong>Web Developer • Game Developer • Self-Taught Robotics Engineer</strong>
 </p>
 
 <p align="center">
-  <em>Building websites, games, and robots with clean & creative code 🚀</em>
+  <em>I build real-world projects that blend code, creativity, and curiosity 🚀</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gunjitgyawali&label=Profile%20Views&color=6C63FF&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I’m **Gunjit**, a passionate developer from **Butwal, Nepal 🇳🇵**  
-I love turning ideas into reality through **web development, game creation, Python programming, and robotics projects**.
+Hi! I’m **Gunjit**, a passionate developer from **Butwal, Nepal 🇳🇵**.  
+I love turning ideas into reality using **web technologies, game engines, Python, and robotics**.
 
-I’m a **self-taught learner** who enjoys problem-solving, experimenting with technology, and helping others learn.
+I’m a **self-taught learner** who enjoys solving problems, experimenting with tech, and mentoring others along the way.
 
 ### ✨ Quick Facts
-- 🧠 Self-taught developer & lifelong learner  
+- 🧠 Self-taught & lifelong learner  
 - 💻 1+ year of hands-on experience  
-- 🛠️ Completed 5+ real-world projects  
-- 🤝 Mentored 200+ students
+- 🛠️ Built **5+ real-world projects**  
+- 🤝 Mentored **200+ students**  
 - 📧 Email: **gunjitgyawali1@gmail.com**
+
+---
+
+## 🚀 Featured Projects
+
+- 🌐 **Personal Portfolio Website**  
+  Responsive website built with **HTML, CSS & JavaScript**
+
+- 🎮 **2D Game Project**  
+  Interactive game focusing on gameplay mechanics & logic
+
+- 🤖 **Line Following Robot**  
+  Arduino-based autonomous robot using sensors & motor control
+
+> ⭐ More projects coming soon — I build consistently.
 
 ---
 
 ## 💡 What I Do
 
-- 🌐 **Web Development** — Responsive websites, web apps & UI design  
-- 🎮 **Game Development** — Interactive and engaging games  
+- 🌐 **Web Development** — Responsive websites, web apps & clean UI  
+- 🎮 **Game Development** — Fun, interactive, logic-driven games  
 - 🤖 **Robotics** — Automation, sensors & autonomous systems  
-- 🧩 **Problem Solving** — Logical and creative coding solutions  
+- 🧩 **Problem Solving** — Turning complex problems into simple solutions  
 
 ---
 
@@ -44,10 +63,10 @@ I’m a **self-taught learner** who enjoys problem-solving, experimenting with t
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎮 Game Development
-![Game Development](https://img.shields.io/badge/Game%20Development-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### 🤖 Robotics & Automation
-![Robotics](https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-FF6F00?style=for-the-badge&logo=arduino&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-4CAF50?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠️ Tools & Platforms
@@ -60,11 +79,11 @@ I’m a **self-taught learner** who enjoys problem-solving, experimenting with t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gunjitgyawali&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjitgyawali&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -86,5 +105,5 @@ Let’s build something amazing together 🚀
 ---
 
 <p align="center">
-  <em>Thanks for stopping by! ⭐ Don’t forget to check out my projects.</em>
+  <em>Thanks for stopping by! ⭐ Feel free to explore my repositories.</em>
 </p>
