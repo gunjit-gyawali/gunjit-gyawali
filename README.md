@@ -1,11 +1,11 @@
-<h1>Prasoon Kandel</h1>
+<h1>Gunjit Gyawali</h1>
 
 <p>
-  High School Student | AI & ML Enthusiast | Programmer
+  High School Student | AI & ML Enthusiast | Programmer | Robotics Enthusist
 </p>
 
 <p >
-  <a href="https://prasoonkandel.com" target="_blank">
+  <a href="https://gunjitgyawali.github.io/.com/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-prasoonkandel.com-3242D9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
@@ -41,33 +41,4 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 ---
 
-## Activity & Grind:
-
-<p>
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=14002&api_domain=hackatime.hackclub.com&&custom_title=Time+Used+For+Something&layout=compact&cache_seconds=0&langs_count=10&theme=dark&hide_border=true&bg_color=0f0f0f&color=f1f1f1&title_color=ffffff&"/>
-</p>
-
-
-
-<p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=dark&background=0f0f0f&hide_border=true"/>
-</p>
-
-<p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasoonkandel&bg_color=0f0f0f&line=ffbb00&point=00ff90&color=f1f1f1&title_color=ffffff&hide_border=true"/>
-
-</p>
-
-
-
----
-
-## What i'm listening to:
-
-
-<p>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&cover_image=true&theme=spotify-embed&background_color=121212&bar_color=53b14f&mode=dark" />
-  </a>
-</p>
 
