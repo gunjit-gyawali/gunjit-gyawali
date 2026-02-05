@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I’m **Gunjit**, a passionate developer from **Butwal, Nepal** who loves to build **web applications, games, and robots** with clean, efficient code. I enjoy solving problems and learning new technologies every day.
+I’m **Gunjit**, a passionate developer from **Butwal, Nepal** who loves to build **website, applications, games, and robots** with clean, efficient code. I enjoy solving problems and learning new technologies every day.
 
 ✨ **Quick Facts**
 - 🧠 Self-taught developer & lifelong learner  
